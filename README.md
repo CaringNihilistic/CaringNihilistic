@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Yadav 👋
 
-**Pre-Final Year B.Tech CSE @ HBTU Kanpur**  
+**Pre-Final Year B.Tech @ HBTU Kanpur**  
 Building production-grade ML systems | Targeting Data Science & ML Engineer roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-yadav-7ba731289/)
