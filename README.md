@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AYUSH+YADAV;ML+Engineer;Building+systems+that+ship." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+systems+that+ship.;Not+a+hobbyist.+Not+a+tutorial+follower.;ML+Engineer+%7C+HBTU+%2727" alt="Typing SVG" />
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🎓 HBTU Kanpur '27   ·   📍 Lucknow, India   ·   ⚡ MLE  │
-└─────────────────────────────────────────────────────────────┘
-```
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+
+<br/><br/>
+
+[![](https://img.shields.io/badge/🎓_HBTU_Kanpur_'27-0D1117?style=for-the-badge)](https://hbtu.ac.in)
+[![](https://img.shields.io/badge/📍_Lucknow,_India-0D1117?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/⚡_ML_Engineer-00D9FF?style=for-the-badge&logoColor=black)](#)
 
 </div>
 
 ---
 
 <div align="center">
-<h3>not a hobbyist. not a tutorial follower.</h3>
-<p><i>production deployments · live international clients · systems that don't break</i></p>
+
+### `not a hobbyist. not a tutorial follower.`
+*production deployments · live international clients · systems that don't break*
+
 </div>
 
 ---
@@ -23,11 +29,11 @@
 
 ```python
 ayush = {
-    "role"       : "Freelance ML Engineer  +  Pre-Final Year @ HBTU",
-    "client"     : "AgroIA Ganadera — Colombia/Venezuela (AgTech)",
-    "building"   : ["LLM/RAG systems", "Computer Vision", "Production MLOps"],
+    "role"        : "Freelance ML Engineer  +  Pre-Final Year @ HBTU",
+    "client"      : "AgroIA Ganadera — Colombia/Venezuela  (AgTech, Live)",
+    "building"    : ["LLM/RAG systems", "Computer Vision", "Production MLOps"],
     "obsessed_with": ["Multi-agent pipelines", "RAG evaluation", "Systems that scale"],
-    "belief"     : "Ship it. Instrument it. Fix it. Repeat.",
+    "belief"      : "Ship it. Instrument it. Fix it. Repeat.",
 }
 ```
 
@@ -35,9 +41,15 @@ ayush = {
 
 ### `./experience`
 
+<div align="center">
+
 | | |
-|:---|:---|
-| 🌎 **AgroIA Ganadera** *(Colombia/Venezuela)* | Aerial livestock detection · YOLOv8s · mAP@50 = **0.731** · 2,714-image dataset · Live HuggingFace + FastAPI deployment |
+|:---:|:---|
+| 🌎 | **AgroIA Ganadera** *(Colombia / Venezuela — AgTech)* |
+| | YOLOv8s aerial livestock detection · **mAP@50 = 0.731** · 2,714-image dataset |
+| | Live HuggingFace Spaces + FastAPI REST deployment · CPU inference @ ~1s/frame on 2K imagery |
+
+</div>
 
 ---
 
@@ -45,12 +57,12 @@ ayush = {
 
 <div align="center">
 
-| Project | Stack | What it does | Metrics |
-|:---|:---|:---|:---|
-| 🧠 **[Socra](https://socra-production.up.railway.app)** | LangGraph · FastAPI · React · Anthropic · PostgreSQL | Multi-agent startup interrogator — 5 specialist LLM personas, Startup Tribunal mode | **$0.022/session · 52s · 30 concurrent** |
-| 📚 **[RAG Teaching Assistant](https://huggingface.co/spaces/ayushthecaringnihilist/rag-ai-teaching)** | FAISS · HyDE · RAGAS · Groq · FastAPI | 241 lectures + 1,230 textbook pages · 5-stage retrieval pipeline | **Faithfulness 0.773 · ~200ms latency** |
-| 🔬 **[Skin Lesion Classifier](https://huggingface.co/spaces/ayushthecaringnihilist/skin-lesion-classifier)** | EfficientNetB2 · PyTorch · Grad-CAM · FastAPI | 10k+ dermoscopy images · Grad-CAM explainability | **87%+ val accuracy · 7 classes** |
-| 💳 **[Credit Risk Predictor](https://huggingface.co/spaces/ayushthecaringnihilist/credit-risk-prediction)** | XGBoost · Optuna · MLflow · Gradio | 307k applicants · 57M+ rows · 157 engineered features | **ROC-AUC 0.782 · 100 Optuna trials** |
+| | Project | What it actually does | Numbers |
+|:---:|:---|:---|:---|
+| 🧠 | **[Socra — AI Startup Interrogator](https://socra-production.up.railway.app)** | 5-agent LangGraph pipeline · Startup Tribunal mode · Clerk auth · Razorpay payments · 9 security fixes pre-launch | `$0.022/session` · `52s` · `30 concurrent` |
+| 📚 | **[RAG Teaching Assistant](https://huggingface.co/spaces/ayushthecaringnihilist/rag-ai-teaching)** | 241 lectures + 1,230 textbook pages · HyDE · cross-encoder reranking · multi-turn memory | `Faithfulness 0.773` · `~200ms latency` |
+| 🔬 | **[Skin Lesion Classifier](https://huggingface.co/spaces/ayushthecaringnihilist/skin-lesion-classifier)** | EfficientNetB2 · Grad-CAM explainability · 10k+ dermoscopy images · 7 classes | `87%+ val accuracy` |
+| 💳 | **[Credit Risk Predictor](https://huggingface.co/spaces/ayushthecaringnihilist/credit-risk-prediction)** | 307k applicants · 57M+ rows · 157 engineered features · Optuna 100 trials · MLflow tracking | `ROC-AUC 0.782` |
 
 </div>
 
@@ -58,14 +70,22 @@ ayush = {
 
 ### `./stack`
 
-```
-LANGUAGES      Python · SQL · C++
-ML/DS          Scikit-Learn · XGBoost · LightGBM · Optuna · MLflow
-DEEP LEARNING  PyTorch · TensorFlow/Keras · EfficientNet · YOLOv8 · HuggingFace
-LLM / RAG      LangChain · LangGraph · FAISS · HyDE · RAGAS · Langfuse
-               Anthropic · OpenAI · Gemini · Groq · Ollama · LLaMA 3.2
-INFRA          FastAPI · Docker · Railway · PostgreSQL · React · Linux/Bash
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00D9FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00D9FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00D9FF)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00D9FF)
+![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge&logo=xgboost&logoColor=00D9FF)
+![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=00D9FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00D9FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF)
+
+</div>
 
 ---
 
@@ -73,8 +93,13 @@ INFRA          FastAPI · Docker · Railway · PostgreSQL · React · Linux/Bash
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=CaringNihilistic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaringNihilistic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CaringNihilistic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaringNihilistic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CaringNihilistic&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -94,10 +119,14 @@ INFRA          FastAPI · Docker · Railway · PostgreSQL · React · Linux/Bash
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=2000&color=555555&center=true&vCenter=true&random=false&width=500&lines=open+to+ML+Engineer+internships+%7C+serious+inquiries+only" alt="Footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=2000&color=444444&center=true&vCenter=true&random=false&width=500&lines=open+to+ML+Engineer+internships+%7C+serious+inquiries+only" alt="Footer" />
 
-<br>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=CaringNihilistic&color=00D9FF&style=flat-square&label=profile+views" />
+
+<br/><br/>
+
+*built different. ships real.*
 
 </div>
