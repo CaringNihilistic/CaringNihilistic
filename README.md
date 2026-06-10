@@ -25,7 +25,7 @@
 
 ---
 
-### `whoami`
+### 🤖 About Me
 
 ```python
 ayush = {
@@ -39,7 +39,7 @@ ayush = {
 
 ---
 
-### `./experience`
+### 🌎 Experience
 
 <div align="center">
 
@@ -53,7 +53,7 @@ ayush = {
 
 ---
 
-### `./projects --production-only`
+### 🚀 Projects — Production Only
 
 <div align="center">
 
@@ -68,7 +68,7 @@ ayush = {
 
 ---
 
-### `./stack`
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -89,7 +89,7 @@ ayush = {
 
 ---
 
-### `./stats`
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -105,7 +105,7 @@ ayush = {
 
 ---
 
-### `./contact`
+### 📬 Contact
 
 <div align="center">
 
