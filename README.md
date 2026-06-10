@@ -25,17 +25,15 @@
 
 ---
 
-### 🤖 About Me
+### ⚡ About Me
 
-```python
-ayush = {
-    "role"        : "Freelance ML Engineer  +  Pre-Final Year @ HBTU",
-    "client"      : "AgroIA Ganadera — Colombia/Venezuela  (AgTech, Live)",
-    "building"    : ["LLM/RAG systems", "Computer Vision", "Production MLOps"],
-    "obsessed_with": ["Multi-agent pipelines", "RAG evaluation", "Systems that scale"],
-    "belief"      : "Ship it. Instrument it. Fix it. Repeat.",
-}
-```
+| | |
+|:---:|:---|
+| 🎓 | **Pre-Final Year @ HBTU Kanpur** — B.Tech, Class of 2027 |
+| 💼 | **Freelance ML Engineer** — live international client (AgTech, Colombia/Venezuela) |
+| 🔧 | **Building** — LLM/RAG systems · Computer Vision · Production MLOps |
+| 🧠 | **Obsessed with** — Multi-agent pipelines · RAG evaluation · Systems that scale |
+| 🎯 | **Belief** — Ship it. Instrument it. Fix it. Repeat. |
 
 ---
 
