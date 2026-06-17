@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+systems+that+ship.;Not+a+hobbyist.+Not+a+tutorial+follower.;ML+Engineer+%7C+HBTU+%2727" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-
-<br/><br/>
-
 [![](https://img.shields.io/badge/🎓_HBTU_Kanpur_'27-0D1117?style=for-the-badge)](https://hbtu.ac.in)
 [![](https://img.shields.io/badge/📍_Lucknow,_India-0D1117?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/⚡_ML_Engineer-00D9FF?style=for-the-badge&logoColor=black)](#)
@@ -18,7 +10,6 @@
 
 <div align="center">
 
-### `not a hobbyist.not a tutorial follower.`
 *production deployments · live international clients · systems that don't break*
 
 </div>
@@ -57,12 +48,27 @@
 
 | | Project | What it actually does | Numbers |
 |:---:|:---|:---|:---|
-| 🧠 | **[Socra — AI Startup Interrogator](https://socra-production.up.railway.app)** | 5-agent LangGraph pipeline · Startup Tribunal mode · Clerk auth · Razorpay payments · 9 security fixes pre-launch | `$0.022/session` · `52s` · `30 concurrent` |
+| 🧠 | **[Socra — AI Startup Interrogator](https://socra-production.up.railway.app)** | 5-agent LangGraph pipeline · Startup Tribunal mode · Clerk auth · Razorpay payments · 9 security fixes pre-launch | `$0.007/session` · `52s` · `3-provider fallback` |
 | 📚 | **[RAG Teaching Assistant](https://huggingface.co/spaces/ayushthecaringnihilist/rag-ai-teaching)** | 241 lectures + 1,230 textbook pages · HyDE · cross-encoder reranking · multi-turn memory | `Faithfulness 0.773` · `~200ms latency` |
 | 🔬 | **[Skin Lesion Classifier](https://huggingface.co/spaces/ayushthecaringnihilist/skin-lesion-classifier)** | EfficientNetB2 · Grad-CAM explainability · 10k+ dermoscopy images · 7 classes | `87%+ val accuracy` |
 | 💳 | **[Credit Risk Predictor](https://huggingface.co/spaces/ayushthecaringnihilist/credit-risk-prediction)** | 307k applicants · 57M+ rows · 157 engineered features · Optuna 100 trials · MLflow tracking | `ROC-AUC 0.782` |
 
 </div>
+
+---
+
+### 🔧 Open Source
+
+| | |
+|:---:|:---|
+| ⭐ | **[traceloop/openllmetry](https://github.com/traceloop/openllmetry/pull/4226)** *(7k★)* — PR #4226 under review |
+| | Added DeepSeek provider instrumentation · captures chain-of-thought as span attributes · 121 tests passing |
+
+---
+
+### ✍️ Writing
+
+- [How I built a 3-provider LLM fallback system in production (and what actually broke)](https://dev.to/ayush_notsogreat_b673d5/how-i-built-a-3-provider-llm-fallback-system-in-production-and-what-actually-broke-46jk) — dev.to
 
 ---
 
@@ -95,10 +101,6 @@
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaringNihilistic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" />
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CaringNihilistic&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
 </div>
 
 ---
@@ -109,6 +111,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-yadav-7ba731289)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaringNihilistic)
+[![dev.to](https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=00D9FF)](https://dev.to/ayush_notsogreat_b673d5)
 [![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ayush710yadav@gmail.com)
 
 </div>
@@ -117,14 +120,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=2000&color=444444&center=true&vCenter=true&random=false&width=500&lines=open+to+ML+Engineer+internships+%7C+serious+inquiries+only" alt="Footer" />
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=CaringNihilistic&color=00D9FF&style=flat-square&label=profile+views" />
 
 <br/><br/>
 
-*built different. ships real.*
+*open to remote ML Engineer internships*
 
 </div>
