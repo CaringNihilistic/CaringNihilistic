@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### `not a hobbyist. not a tutorial follower.`
+### `not a hobbyist.not a tutorial follower.`
 *production deployments · live international clients · systems that don't break*
 
 </div>
