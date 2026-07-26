@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/🎓_HBTU_Kanpur_'27-0D1117?style=for-the-badge)](https://hbtu.ac.in)
 [![](https://img.shields.io/badge/📍_Lucknow,_India-0D1117?style=for-the-badge)](#)
-[![](https://img.shields.io/badge/⚡_ML_Engineer-00D9FF?style=for-the-badge&logoColor=black)](#)
+[![](https://img.shields.io/badge/⚡_AI/ML_Engineer-00D9FF?style=for-the-badge&logoColor=black)](#)
 
 </div>
 
