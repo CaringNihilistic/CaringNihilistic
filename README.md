@@ -22,8 +22,8 @@
 |:---:|:---|
 | 🎓 | **Pre-Final Year @ HBTU Kanpur** — B.Tech, Class of 2027 |
 | 💼 | **Freelance ML Engineer** — live international client (AgTech, Colombia/Venezuela) |
-| 🔧 | **Building** — LLM/RAG systems · Computer Vision · Production MLOps |
-| 🧠 | **Obsessed with** — Multi-agent pipelines · RAG evaluation · Systems that scale |
+| 🔧 | **Building** — Agentic AI systems · RAG evaluation · Production MLOps |
+| 🧠 | **Obsessed with** — Multi-agent pipelines · LLM evals & observability · Systems that scale |
 | 🎯 | **Belief** — Ship it. Instrument it. Fix it. Repeat. |
 
 ---
@@ -48,9 +48,11 @@
 
 | | Project | What it actually does | Numbers |
 |:---:|:---|:---|:---|
-| 🧠 | **[Socra — AI Startup Interrogator](https://socra-production.up.railway.app)** | 5-agent LangGraph pipeline · Startup Tribunal mode · Clerk auth · Razorpay payments · 9 security fixes pre-launch | `$0.007/session` · `52s` · `3-provider fallback` |
-| 📚 | **[RAG Teaching Assistant](https://huggingface.co/spaces/ayushthecaringnihilist/rag-ai-teaching)** | 241 lectures + 1,230 textbook pages · HyDE · cross-encoder reranking · multi-turn memory | `Faithfulness 0.773` · `~200ms latency` |
-| 🔬 | **[Skin Lesion Classifier](https://huggingface.co/spaces/ayushthecaringnihilist/skin-lesion-classifier)** | EfficientNetB2 · Grad-CAM explainability · 10k+ dermoscopy images · 7 classes | `87%+ val accuracy` |
+| 🧠 | **[Socra — AI Startup Interrogator](https://socra-production.up.railway.app)** | 5-agent LangGraph pipeline · Startup Tribunal mode · Postgres checkpointing · Clerk auth · 3-provider LLM fallback | `$0.007/session` · `52s` · `3-provider fallback` |
+| 🤖 | **Autonomous Coding Agent** | LangGraph plan→act→observe→retry loop that fixes its own bugs in a sandboxed repo copy · success judged only by pytest's exit code, never the model's self-report | `structured retry budget` · `honest give-up` |
+| 📚 | **[RAG Teaching Assistant](https://huggingface.co/spaces/ayushthecaringnihilist/rag-ai-teaching)** | 241 lectures + 1,230 textbook pages · hybrid retrieval + HyDE + cross-encoder reranking · multi-turn memory | `Faithfulness 0.773` · `~200ms latency` |
+| 🎾 | **Tennis Match Outcome Prediction** *(Research)* | XGBoost + LightGBM ensemble, surface-specific Elo, over 27,510 ATP matches · LLM-extracted news signals add +5.2pp | `72.4% acc.` · `beats closing odds (68.4%)` |
+| 🔬 | **[Skin Lesion Classifier](https://huggingface.co/spaces/ayushthecaringnihilist/skin-lesion-classifier)** | EfficientNetB2 · Grad-CAM explainability · 10k+ dermoscopy images · 7 classes | `85.1% val accuracy` |
 | 💳 | **[Credit Risk Predictor](https://huggingface.co/spaces/ayushthecaringnihilist/credit-risk-prediction)** | 307k applicants · 57M+ rows · 157 engineered features · Optuna 100 trials · MLflow tracking | `ROC-AUC 0.782` |
 
 </div>
@@ -62,7 +64,9 @@
 | | |
 |:---:|:---|
 | ⭐ | **[traceloop/openllmetry](https://github.com/traceloop/openllmetry/pull/4226)** *(7k★)* — PR #4226 under review |
-| | Added DeepSeek provider instrumentation · captures chain-of-thought as span attributes · 121 tests passing |
+| | DeepSeek provider instrumentation · captures chain-of-thought as span attributes · 121 tests passing |
+| ⭐ | **[vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas/pull/2776)** *(14k★)* — PR #2776 under review |
+| | Fixed native Mistral client detection in `llm_factory`, routed through `instructor.from_mistral(use_async=True)` · 170+ tests added · confirmed working by the original issue reporter |
 
 ---
 
