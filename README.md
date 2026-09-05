@@ -107,20 +107,6 @@
 
 </div>
 
----
-
-### 📬 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-yadav-7ba731289)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaringNihilistic)
-[![dev.to](https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=00D9FF)](https://dev.to/ayush_notsogreat_b673d5)
-[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ayush710yadav@gmail.com)
-
-</div>
-
----
 
 <div align="center">
 
