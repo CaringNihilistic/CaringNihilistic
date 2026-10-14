@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📍_India_·_Remote-0D1117?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/⚡_Agentic_AI_Engineer-00D9FF?style=for-the-badge&logoColor=black)](#)
 
-#[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/ayush-yadav-7ba731289)
-#[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:ayush710yadav@gmail.com)
-#[![dev.to](https://img.shields.io/badge/dev.to-0D1117?style=for-the-badge&logo=devdotto&logoColor=00D9FF)](https://dev.to/ayush_notsogreat_b673d5)
 
 *I build AI agents that check their own work, and the tooling that shows when they don't.*
 
